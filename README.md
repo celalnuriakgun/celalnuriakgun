@@ -8,6 +8,7 @@ In the web field, I usually work with PHP. I took place mostly as a fullstack in
 - 🌱  I’m currently learning ReactJS & Python.
 - 📫  How to reach me: [**LinkedIn**](https://linkedin.com/in/celalnuriakgun)
 
+![Celal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <!--
 **celalnuriakgun/celalnuriakgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
