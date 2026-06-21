@@ -5,7 +5,6 @@ In the web field, I usually work with PHP. I took place mostly as a fullstack in
 - 💻  [What am I doing about Open Source? (**GitHub**)](https://github.com/celalnuriakgun)
 - 🐦  [What do I think? (**Twitter**)](https://twitter.com/celalnuriakgun)
 - 🏹  [Curriculum vitae (**LinkedIn**)](https://linkedin.com/in/celalnuriakgun)
-- 🌱  I’m currently learning ReactJS & Python.
 - 📫  How to reach me: [**LinkedIn**](https://linkedin.com/in/celalnuriakgun)
 
 <!--
